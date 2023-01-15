@@ -10,7 +10,7 @@ import (
 func ResponseSuccess(c *gin.Context, data interface{}) {
 	responData := models.Respon{
 		Status:  "200",
-		Message: "Success get data",
+		Message: "Success get data!!",
 		Data:    data,
 	}
 
