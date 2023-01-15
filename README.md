@@ -1,1 +1,1 @@
-# news_project
+# News Backend GO
